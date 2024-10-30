@@ -238,7 +238,7 @@ public class Tegneprogram extends Application {
         }
     }
 
-    //Metode for å behandle figur
+    //Metode for å vise info
     public void visInfo(MouseEvent e) {
         //viser info for valgt figur
         valgtFigur = (Shape) e.getSource();
@@ -246,7 +246,7 @@ public class Tegneprogram extends Application {
     }
 
 
-    //Metode for flytting av figur
+    //Metode for flytting av figur og endring av størrelse 
     public void behandleFigur(MouseEvent e) {
         valgtFigur = (Shape) e.getSource();
         Figur f = (Figur)(valgtFigur);
