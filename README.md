@@ -5,5 +5,4 @@ og velge farge for både fyll og strek. Figurene kan også flyttes frem eller ti
 Dette er en oppgave med fokus på objektorientering og polymorfi. Figur.java er superklasse for alle rektanglene. 
 Tegneprogram er hovedprogrammet (main). 
 
-## Visning 
-![TegneProgramVisning](./gif/TegneProgramVisning.gif)
+
