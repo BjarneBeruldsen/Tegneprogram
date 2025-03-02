@@ -6,4 +6,4 @@ Dette er en oppgave med fokus på objektorientering og polymorfi. Figur.java er 
 Tegneprogram er hovedprogrammet (main). 
 
 ## Visning 
-(./gif/TegneProgramVisning.gif)
+![TegneProgramVisning](./gif/TegneProgramVisining.gif)
